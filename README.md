@@ -1,1 +1,3 @@
-# hello-aws-hello-aws-system-53693-53736-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
